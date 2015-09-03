@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cifras]]></title>
+        <description><![CDATA[Cifras]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Sep 2015 16:06:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cifra Club | VOLCANO - Damien Rice]]></title>
+            <description><![CDATA[<article><h1>Cifra Club | VOLCANO - Damien Rice</h1><p>Am G Don't hold yourself like thatF You'll hurt your kneesAm G I kissed your mouth and backF That's all I needG F Don't build your world aroundG F Volcanoes melt you downAm And what I am to youF Is not realAm And what I am to youF You do</p><img src="http://sscdn.trrsf.com/uploadfile/letras/fotos/8/c/e/8/8ce84db8a6901bbf8c4acfb1dcb52c3d.jpg"></article>]]></description>
+            <link>http://www.cifraclub.com.br/damien-rice/volcano/</link>
+            <guid isPermaLink="false">1c355ad5-bfbf-4c44-bf81-5a6fb0e54efa</guid>
+            <pubDate>Thu, 03 Sep 2015 16:05:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
