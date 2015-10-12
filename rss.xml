@@ -5,8 +5,15 @@
         <description><![CDATA[Cifras]]></description>
         <link>https://thegrid.ai/cifras/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 13:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 13:39:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cifras/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cifra Club | O SEGUNDO SOL - Cássia Eller (cifra com videoaula)]]></title>
+            <description><![CDATA[<article><h1>Cifra Club | O SEGUNDO SOL - Cássia Eller (cifra com videoaula)</h1><p>Cássia Eller - O Segundo Sol (Cifras) - aprenda a tocar com as cifras da música e a videoaula do Cifra Club</p><img src="http://akamai.sscdn.co/uploadfile/letras/fotos/d/e/7/5/de75d8227715f74cbceba747818b6dac.jpg"></article>]]></description>
+            <link>http://www.cifraclub.com.br/cassia-eller/o-segundo-sol/#tabs=false&amp;font=10&amp;columns=true</link>
+            <guid isPermaLink="false">91f6c703-5633-4ec0-b982-bd6929295363</guid>
+            <pubDate>Mon, 12 Oct 2015 13:36:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cifra Club | EXAGERADO - Cazuza (cifra com videoaula)]]></title>
             <description><![CDATA[<article><h1>Cifra Club | EXAGERADO - Cazuza (cifra com videoaula)</h1><p>Cazuza - Exagerado (Cifras) - aprenda a tocar com as cifras da música e a videoaula do Cifra Club</p><img src="http://akamai.sscdn.co/uploadfile/letras/fotos/6/f/1/7/6f17189010b5f1095e2609373b9803b5.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Cifra Club | SOMETHING - The Beatles (cifra com videoaula)</h1><p>The Beatles - Something (Cifras) - aprenda a tocar com as cifras da música e a videoaula do Cifra Club</p><img src="http://akamai.sscdn.co/uploadfile/letras/fotos/4/4/c/f/44cf655b87543d18ea8f8781b29dbd92.jpg"></article>]]></description>
             <link>http://www.cifraclub.com.br/the-beatles/something/#tabs=false&amp;font=10</link>
             <guid isPermaLink="false">785be604-e351-4634-a626-00b8811bd237</guid>
-            <pubDate>Fri, 09 Oct 2015 13:54:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cifra Club | ALL MY LOVING - The Beatles]]></title>
-            <description><![CDATA[<article><h1>Cifra Club | ALL MY LOVING - The Beatles</h1><p>The Beatles - All My Loving (Cifras) - aprenda a tocar com as cifras da música no Cifra Club</p><img src="http://akamai.sscdn.co/uploadfile/letras/fotos/4/7/5/5/4755a1edff40cec79bf53e59cbf3b269.jpg"></article>]]></description>
-            <link>http://www.cifraclub.com.br/the-beatles/all-my-loving/#tabs=false&amp;font=10&amp;tone=-7</link>
-            <guid isPermaLink="false">3d78427c-bd68-4ea3-9bcb-5a302224228a</guid>
             <pubDate>Fri, 09 Oct 2015 13:54:09 GMT</pubDate>
         </item>
     </channel>
