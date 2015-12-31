@@ -1,6 +1,6 @@
 name: Cifras
 favicon: null
-layout_spectrum: 0.53436
+layout_spectrum: 0.62072
 typography_spectrum: 0.26137
 cta:
   domain: null
@@ -21,10 +21,10 @@ color:
     - '#26a09a'
     - '#006494'
     - '#6fbeeb'
-  brandStrength: 0.5
-  lightness: 0.1875
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  brandStrength: 0.875
+  lightness: 0.125
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose:
   - name: stars
     item: null
