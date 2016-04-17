@@ -1,19 +1,4 @@
-name: Cifras
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.07686
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#13293d'
@@ -21,11 +6,14 @@ color:
     - '#26a09a'
     - '#006494'
     - '#6fbeeb'
-  brandStrength: 0.1875
-  lightness: 0
-  saturation: 0.25
-  rhythmicContrast: 1
+  brandStrength: 0.334918
+  lightness: 0.661684
+  rhythmicContrast: 0.5
+  saturation: 0.502038
+cta: {}
+layout_spectrum: 0.277173
+name: Cifras
+opengraph: {}
 purpose:
   - name: stars
-    item: null
-    url: null
+typography_spectrum: 0.432066
