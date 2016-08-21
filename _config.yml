@@ -1,7 +1,20 @@
+layout_spectrum: 0.662224959814921
+typography_spectrum: 0.682265154318884
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.7936677471734583
+  lightness: 0.8307291439268738
+  saturation: 0.08180790161713958
+  rhythmicContrast: 0.1252567667979747
+coverPrefs:
+  filter: false
 name: Cifras
 favicon: null
-layout_spectrum: 0.71303
-typography_spectrum: 0.432066
 cta:
   domain: null
   bucket: null
@@ -14,18 +27,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#13293d'
-    - '#e8f1f2'
-    - '#26a09a'
-    - '#006494'
-    - '#6fbeeb'
-  brandStrength: 0.875
-  lightness: 0.3125
-  saturation: 0.1875
-  rhythmicContrast: 0.25
-purpose:
-  - name: stars
-    item: null
-    url: null
+purpose: []
